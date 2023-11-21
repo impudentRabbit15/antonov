@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url(antoov_an2_3v.1402229371183.jpg);
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+a{
+  background-color: #ffdd00;
+  width: 200px;
+  padding: 10px;
+  margin: 2px;
+  text-decoration: none;
+}
+  a:hover{
+  cursor: pointer;
+  background-color: #1e00ff;
+  transition: all 0.4s ;
+  color: #ffffff;
+}
+h1{
+  background-color:#ffdd00 ;
+}
+.f{
+  background-image: url(1625234994_35-kartinkin-com-p-zhelto-sinii-fon-krasivie-foni-35.jpg);
+  background-size: cover;
+}
+.h{
+   background-image: url(1669970039_2-pibig-info-p-zhovto-blakitnii-fon-oboi-3.jpg);
+}
+.g{
+  background-image: url(1625234994_35-kartinkin-com-p-zhelto-sinii-fon-krasivie-foni-35.jpg);
+  background-size: cover;
+}
